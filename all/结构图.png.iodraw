@@ -436,7 +436,7 @@
         </mxCell>
         <mxCell id="6YKz8k9NLHHiWBYBaT_h-28" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-30;" vertex="1" connectable="0" parent="6YKz8k9NLHHiWBYBaT_h-27">
           <mxGeometry x="0.2544" relative="1" as="geometry">
-            <mxPoint x="-5" y="6" as="offset" />
+            <mxPoint x="-15" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6YKz8k9NLHHiWBYBaT_h-5" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
