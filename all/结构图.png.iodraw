@@ -183,10 +183,10 @@
           <mxGeometry x="5" y="20" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BVQmrlD9nvxZfkTRzv4--47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="30" height="60" as="geometry" />
+          <mxGeometry x="32.5" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BVQmrlD9nvxZfkTRzv4--48" value="用户注册登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="47.5" y="355" width="35" height="30" as="geometry" />
+          <mxGeometry x="30" y="355" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
