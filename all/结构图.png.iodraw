@@ -105,7 +105,7 @@
         <mxCell id="BVQmrlD9nvxZfkTRzv4--13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BVQmrlD9nvxZfkTRzv4--12">
           <mxGeometry width="40" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="BVQmrlD9nvxZfkTRzv4--14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;轮胎库存与推荐模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVQmrlD9nvxZfkTRzv4--12">
+        <mxCell id="BVQmrlD9nvxZfkTRzv4--14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;轮胎库存模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVQmrlD9nvxZfkTRzv4--12">
           <mxGeometry x="5" y="20" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BVQmrlD9nvxZfkTRzv4--16" value="" style="group" vertex="1" connectable="0" parent="1">
