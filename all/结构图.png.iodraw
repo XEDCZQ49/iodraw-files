@@ -448,7 +448,7 @@
             <mxPoint x="320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6YKz8k9NLHHiWBYBaT_h-16" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6YKz8k9NLHHiWBYBaT_h-16" value="验证用户身份" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
