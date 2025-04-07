@@ -10,19 +10,14 @@
         <mxCell id="sICQo82zm-XTzejm7GSI-1" value="用户认证模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sICQo82zm-XTzejm7GSI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-2" value="定位与商家查询模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-5" target="sICQo82zm-XTzejm7GSI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-5" value="库存管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-6" target="sICQo82zm-XTzejm7GSI-19">
           <mxGeometry relative="1" as="geometry" />
@@ -38,36 +33,36 @@
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="130" as="targetPoint" />
+            <mxPoint x="700" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-11" value="服务预约模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="210" as="targetPoint" />
+            <mxPoint x="700" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-12" value="预约处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-15" value="订单管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-17" value="备货调度模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="700" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="290.3333333333335" as="targetPoint" />
+            <mxPoint x="510" y="290.3333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-19" value="数据管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-21" value="通知模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
