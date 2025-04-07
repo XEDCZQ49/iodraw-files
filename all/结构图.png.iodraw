@@ -65,15 +65,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OzLX_8OZI3vA6JewQfki" name="第 2 页">
-    <mxGraphModel dx="458" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="370" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BVQmrlD9nvxZfkTRzv4--1" value="智轮备货通系统功能模块图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BVQmrlD9nvxZfkTRzv4--2" value="登录注册模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BVQmrlD9nvxZfkTRzv4--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BVQmrlD9nvxZfkTRzv4--3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
