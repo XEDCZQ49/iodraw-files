@@ -46,10 +46,10 @@
         <mxCell id="sICQo82zm-XTzejm7GSI-12" value="预约处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sICQo82zm-XTzejm7GSI-15" value="订单管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sICQo82zm-XTzejm7GSI-15" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sICQo82zm-XTzejm7GSI-17" value="备货调度模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sICQo82zm-XTzejm7GSI-17" value="备货调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sICQo82zm-XTzejm7GSI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sICQo82zm-XTzejm7GSI-19" target="sICQo82zm-XTzejm7GSI-21">
