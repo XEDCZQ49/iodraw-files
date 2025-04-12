@@ -290,9 +290,6 @@
             <mxPoint x="5" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HA9y0EPVa_y80Z7QcoZP-41" value="校&lt;div&gt;验&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;过&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="345.0000000000001" y="770.2413793103447" as="geometry" />
-        </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="810" width="35" height="50" as="geometry" />
         </mxCell>
