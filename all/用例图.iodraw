@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FuFH39-jYFrpIartdG6t" name="第 2 页">
-    <mxGraphModel dx="1099" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,6 +373,9 @@
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-70" value="登录成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="790" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-75" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="555" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
