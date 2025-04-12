@@ -295,21 +295,27 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HA9y0EPVa_y80Z7QcoZP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-42">
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="334.6190476190475" y="900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HA9y0EPVa_y80Z7QcoZP-51" value="店铺名&lt;div&gt;合法&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HA9y0EPVa_y80Z7QcoZP-49">
-          <mxGeometry x="-0.1109" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="780" width="35" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HA9y0EPVa_y80Z7QcoZP-52" value="校验信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="630" width="95" height="30" as="geometry" />
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-42" target="HA9y0EPVa_y80Z7QcoZP-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.6190476190475" y="900" as="targetPoint" />
+            <mxPoint x="335" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-54" value="店铺名&lt;div&gt;合法&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HA9y0EPVa_y80Z7QcoZP-53">
+          <mxGeometry x="-0.1109" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-52" value="完成注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="890" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
