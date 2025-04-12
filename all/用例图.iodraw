@@ -402,7 +402,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-120" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="400" width="35" height="40" as="geometry" />
+          <mxGeometry x="-182.5" y="370" width="35" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-121" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="500" width="95" height="30" as="geometry" />
