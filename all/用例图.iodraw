@@ -285,7 +285,7 @@
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-40" value="店&lt;div&gt;铺&lt;/div&gt;&lt;div&gt;名&lt;/div&gt;&lt;div&gt;非&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HA9y0EPVa_y80Z7QcoZP-39">
           <mxGeometry x="0.2956" y="3" relative="1" as="geometry">
-            <mxPoint x="3" y="95" as="offset" />
+            <mxPoint x="3" y="93" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-47" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A0%A1%26lt%3Bdiv%26gt%3B%E9%AA%8C%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E5%A4%B1%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E8%B4%A5%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22269.5%22%20y%3D%22650.2222222222222%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HA9y0EPVa_y80Z7QcoZP-39">
@@ -304,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="780" width="35" height="40" as="geometry" />
+          <mxGeometry x="317.5" y="772" width="35" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-42" target="HA9y0EPVa_y80Z7QcoZP-52">
           <mxGeometry relative="1" as="geometry">
@@ -314,7 +314,7 @@
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-54" value="店铺名&lt;div&gt;合法&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HA9y0EPVa_y80Z7QcoZP-53">
           <mxGeometry x="-0.1109" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-52" target="HA9y0EPVa_y80Z7QcoZP-16">
