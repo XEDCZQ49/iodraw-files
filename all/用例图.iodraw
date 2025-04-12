@@ -169,7 +169,7 @@
           <mxGeometry x="310" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-3" value="系统入口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="130" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
