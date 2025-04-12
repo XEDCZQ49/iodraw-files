@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FuFH39-jYFrpIartdG6t" name="第 2 页">
-    <mxGraphModel dx="3197" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-3" value="系统入口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="130" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-4" target="HA9y0EPVa_y80Z7QcoZP-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-4" value="用户登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="310" width="95" height="30" as="geometry" />
@@ -385,7 +388,7 @@
             <mxPoint x="18.029411764705856" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HA9y0EPVa_y80Z7QcoZP-117" value="商家注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-117" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="500" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-120" target="HA9y0EPVa_y80Z7QcoZP-117">
