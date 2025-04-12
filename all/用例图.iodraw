@@ -236,7 +236,7 @@
           <mxGeometry x="417.5" y="480" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-23" value="商家注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="490" width="95" height="30" as="geometry" />
+          <mxGeometry x="287.5" y="550" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
