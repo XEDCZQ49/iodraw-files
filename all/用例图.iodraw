@@ -250,7 +250,7 @@
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-26" target="HA9y0EPVa_y80Z7QcoZP-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HA9y0EPVa_y80Z7QcoZP-26" value="输入用户名/密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-26" value="输入商家名/密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417.5" y="555" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HA9y0EPVa_y80Z7QcoZP-30" source="HA9y0EPVa_y80Z7QcoZP-23">
