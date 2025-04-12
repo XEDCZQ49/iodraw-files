@@ -180,7 +180,7 @@
           <mxGeometry x="287.5" y="130" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-4" value="用户登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="310" width="95" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="310" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-5" target="HA9y0EPVa_y80Z7QcoZP-4">
           <mxGeometry relative="1" as="geometry">
@@ -197,6 +197,25 @@
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-10" value="商家登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="310" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-12" value="用户登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="320" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-15" target="HA9y0EPVa_y80Z7QcoZP-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HA9y0EPVa_y80Z7QcoZP-15" target="HA9y0EPVa_y80Z7QcoZP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="220" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HA9y0EPVa_y80Z7QcoZP-16" value="商家登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="320" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
