@@ -359,7 +359,7 @@
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-74" value="检&lt;div&gt;验&lt;/div&gt;&lt;div&gt;失&lt;/div&gt;&lt;div&gt;败&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HA9y0EPVa_y80Z7QcoZP-73">
           <mxGeometry x="0.2637" y="-2" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="-2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HA9y0EPVa_y80Z7QcoZP-59" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
